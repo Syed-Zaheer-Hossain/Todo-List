@@ -26,6 +26,10 @@ h1 {
     text-shadow: 0 0 15px cyan;
 }
 
+h2{
+    color: white;
+}
+
 /* Input Box */
 #input-box {
     width: 70%;
